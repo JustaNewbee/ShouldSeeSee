@@ -5,6 +5,7 @@
 * [CSS动画优化](https://www.cnblogs.com/langzi1989/p/5965818.html)
 * [BFC布局](https://blog.csdn.net/baidu_37107022/article/details/71634396)
 * [Flex布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+* [移动端CSS动画优化](https://blog.csdn.net/natalie86/article/details/44172117)
 --------------------------------------------------
 ##JavaScript
 * [精读《高效 javascript》](https://juejin.im/entry/5b7e487f6fb9a019dd6aa85f)
